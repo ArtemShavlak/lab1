@@ -5,7 +5,6 @@ terraform {
     region = " us-east-1 " 
     dynamodb_table = " lab1_table " 
   } 
-}
   
 required_providers {
 aws = {
